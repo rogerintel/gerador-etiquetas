@@ -21,5 +21,5 @@ for (var i = 1; i < qtd; i++) {
 }
 content += '</tr>'
 table.innerHTML = content;
-// window.print();
+window.print();
 // 9900000001
