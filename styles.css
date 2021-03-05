@@ -44,7 +44,7 @@ svg {
     height: 10mm;
     width: 30mm;
 }
-img {
-    margin-left: auto;
-    margin-right: auto;
+.uni {
+    flex-direction: column;
+    font-size: 7pt;
 }
