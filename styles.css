@@ -19,7 +19,7 @@ html,body{
 
 @page  {
     /*size: A4;*/
-    margin: 11.4mm 3.75mm 0 0;
+    margin: 10.7mm 3.25mm 0 0;
 }
 
 table {
@@ -37,7 +37,7 @@ td {
     /*border: 1mm solid black;*/
     text-align: center;
     align-content: center;
-    padding-right: 3mm;
+    padding-right: 3.25mm;
 }
 
 svg {
