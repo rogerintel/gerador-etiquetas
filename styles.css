@@ -34,7 +34,7 @@ table {
 td {
     height: 21.2mm;
     width: 38.1mm;
-    border: 1mm solid black;
+/*     border: 1mm solid black; */
     text-align: center;
     align-content: center;
     padding-right: 3.25mm;
